@@ -1,2 +1,2 @@
-# python_for_testers
-Python training for testers
+
+Repository for python training for testers.
